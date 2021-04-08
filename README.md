@@ -1,8 +1,8 @@
-# Barbearia Paris
+<h1> Barbearia Puro Charme </h1>
 
-<h3 align="center">Projeto criado para uma barbearia do meu bairro</h3>
+<h3 align="center">Projeto criado para uma barbearia do meu bairro.</h3>
 
-- ⚡ Link do projeto pronto **https://brnoliveira110.github.io/barbeariaParis/**
+- ⚡ Link do projeto pronto **https://brnoliveira110.github.io/puroCharme/**
 
 
 <h3 align="left">Languages and Tools:</h3>
